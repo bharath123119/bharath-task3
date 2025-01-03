@@ -51,5 +51,7 @@ Step 17:Create the dashboard for 'Profit and Sum of total buying values' by usin
 Step 18:Create the dashboard fro 'Sum of total selling value by Category' by using 'Tree map'.
 
 
+
+
 CONCLUSION:Crete the POWER BI Dashboard Showing Sales trends,Top Products and Regional Performance using Sales data.
 
